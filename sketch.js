@@ -9,10 +9,10 @@ var feedButton, addButton;
 //load images
 function preload()
 {
-  backgroundImg = loadImage("images/bg.png");
-  dogImg = loadImage("images/Dog.png");
-  happyDog = loadImage("images/happydog.png");
-  opinionImg = loadImage("images/comment.png");
+  backgroundImg = loadImage("bg.png");
+  dogImg = loadImage("Dog.png");
+  happyDog = loadImage("happydog.png");
+  opinionImg = loadImage("comment.png");
 }
 
 
